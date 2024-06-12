@@ -1,4 +1,4 @@
-# README - Projeto "Qual é o Animal?"
+# Projeto "Qual é o Animal?"
 
 ## Descrição do Projeto
 O projeto "Qual é o Animal?" é um jogo interativo desenvolvido com o objetivo de educar crianças sobre animais de fazenda. Utilizando as ferramentas Unity e Vuforia, o jogo oferece uma experiência imersiva de realidade aumentada (RA), onde os jogadores identificam animais a partir de dicas e reconhecimento de imagens.
